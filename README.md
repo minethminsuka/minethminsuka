@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @minethminsuka
-- 👀 I’m interested in software dev | cybersecurity | blockchain tech
-- 🌱 I’m currently learning Python | JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Working towards what I love
 
 <!---
 minethminsuka/minethminsuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
